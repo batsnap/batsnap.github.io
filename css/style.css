@@ -1,8 +1,7 @@
 body{
-background-image:
-    url("/image/font.jpg");
+background-image:url("/image/font.jpg");
     margin: 0;
-background-size: cover;
+    background-size: cover;
 }
 p{
 	font-size: 60px;
@@ -17,4 +16,7 @@ p{
     width: 200px;
     font-size: 30px;
     margin-left: 20px;
+}
+a{
+    color:black;
 }
