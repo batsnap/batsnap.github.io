@@ -1,17 +1,12 @@
 a {
-    color:green
-    font-size: size 20px
+    color:green;
+    font-size: size 20px;
 }
 
 div{
-    color: blue
-
-}
-
-#strong1{
-    color: tomato
+    color: blue;
 }
 body{
-background:
-	url("/image/font.jpg")
+background-image:
+	url("/image/font.jpg");
 }
