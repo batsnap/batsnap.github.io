@@ -1,6 +1,6 @@
 a {
     color:green;
-    font-size: 60px;
+    font-size: 20px;
 }
 
 div{
@@ -12,5 +12,5 @@ background-image:
 background-size: cover;
 }
 p{
-	font-size: xx-large;
+	font-size: 60px;
 }
