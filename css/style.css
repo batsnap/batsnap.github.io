@@ -12,5 +12,6 @@ div{
     color: tomato
 }
 body{
-backgroud-image:url("/image/font.jpg")
+backgroud:
+	url("/image/font.jpg")
 }
