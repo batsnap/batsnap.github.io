@@ -15,9 +15,11 @@ p{
 	font-size: 60px;
 }
 #maket{
+    color: green;
     width: 100%;
     vertical-align: top;
 }
 #leftcol{
     width: 200px;
+    font-size: 30px;
 }
