@@ -4,7 +4,8 @@ a {
 }
 body{
 background-image:
-	url("/image/font.jpg");
+    url("/image/font.jpg");
+    margin: 0;
 background-size: cover;
 }
 p{
@@ -19,4 +20,5 @@ p{
 #leftcol{
     width: 200px;
     font-size: 30px;
+    margin-left: 20px;
 }
