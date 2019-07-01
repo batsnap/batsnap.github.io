@@ -9,4 +9,5 @@ div{
 body{
 background-image:
 	url("/image/font.jpg");
+background-size: cover;
 }
