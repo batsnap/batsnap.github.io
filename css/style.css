@@ -9,5 +9,8 @@ div{
 }
 
 #strong1{
-    color: tomato
+    color: tomato;
+}
+body{
+backgroud-image:url(/image/font.jpg)
 }
