@@ -3,7 +3,7 @@ background-image:url("/image/font.jpg");
     margin: 0;
     background-size: cover;
 }
-p{
+#nazvanie {
 	font-size: 60px;
 }
 #maket{
