@@ -1,1 +1,1 @@
-jQuery('body').append();
+alert('welcome to batyr kurbanov site');
