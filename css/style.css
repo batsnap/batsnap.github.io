@@ -5,7 +5,7 @@
 }
 #menu{
     background:green;
-    width:190px;
+    width:160px;
     height:300px;
     margin: 20px;
     
@@ -16,11 +16,10 @@
     height:300px;
     position:absolute;
     left:190px;
-    top:100px;
-    margin: 20px;
+    top:154px;
+    margin:20px;
 }
 #footer{
-
     width:auto;
     height:300px;
 }
@@ -35,4 +34,7 @@ body{
 }
 #reclama{
     font-size: 54px;
+}
+#leftcol{
+    font-size: 20px;
 }
