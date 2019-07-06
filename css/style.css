@@ -1,26 +1,37 @@
+
+#header{
+    width:auto;
+    height:100px;
+}
+#menu{
+    background:green;
+    width:190px;
+    height:300px;
+    margin: 10px;
+}
+#content{
+    background:yellow;
+    width:1024px;
+    height:300px;
+    position:absolute;
+    left:190px;
+    top:100px;
+    margin: 10px;
+}
+#footer{
+
+    width:auto;
+    height:300px;
+}
+
 body{
-background-image:url("/image/font.jpg");
-    margin: 0;
-    background-size: cover;
+    margin:0px;
+    background-image:url("/image/font.jpg");
 }
-#nazvanie {
-	font-size: 60px;
-}
-#maket{
-    background-color:seagreen;
-    width: 10%;
-    height:100%;
-    vertical-align: top;
-}
-#leftcol{
-    width: 200px;
-    font-size: 30px;
-    margin-left: 20px;
-}
-a{
-    color:black;
-}
+
 #glav{
     font-size: 54px;
-
+}
+#reclama{
+    font-size: 54;
 }
