@@ -39,3 +39,21 @@ body{
 #leftcol{
     font-size: 20px;
 }
+#selection{
+  color:black;
+  margin: 20px;
+  width: 90%;
+}
+.stroki{
+  width: 100%;
+}
+.punkt1{
+  width: 10%;
+  background:grey ;
+  font-size: 20px;
+}
+.punkt2{
+  background:steelblue;
+  width: 90%;
+  font-size: 20px;
+}
