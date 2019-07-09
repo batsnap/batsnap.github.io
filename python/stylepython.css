@@ -60,3 +60,21 @@ body{
     margin:20px;
     font-size: 30px;
 }
+#screen1{
+width:500px;
+height:100px;
+}
+#content2{
+    background:yellow;
+    width:1024px;
+    height:600px;
+    position:absolute;
+    left:190px;
+    top:154px;
+    margin:20px;
+    font-size: 30px;
+}
+#footer2{
+    width:auto;
+    height:300px;
+}
